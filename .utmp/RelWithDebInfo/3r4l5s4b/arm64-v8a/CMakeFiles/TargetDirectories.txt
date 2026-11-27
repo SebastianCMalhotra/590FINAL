@@ -1,0 +1,5 @@
+/Users/arvindmalhotra/Desktop/VR Gamedev/590FINAL/.utmp/RelWithDebInfo/3r4l5s4b/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/arvindmalhotra/Desktop/VR Gamedev/590FINAL/.utmp/RelWithDebInfo/3r4l5s4b/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/arvindmalhotra/Desktop/VR Gamedev/590FINAL/.utmp/RelWithDebInfo/3r4l5s4b/arm64-v8a/GameActivity/CMakeFiles/game.dir
+/Users/arvindmalhotra/Desktop/VR Gamedev/590FINAL/.utmp/RelWithDebInfo/3r4l5s4b/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+/Users/arvindmalhotra/Desktop/VR Gamedev/590FINAL/.utmp/RelWithDebInfo/3r4l5s4b/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
